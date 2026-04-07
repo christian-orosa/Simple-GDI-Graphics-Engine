@@ -1,6 +1,6 @@
 # 1.RESUME
-Silver Sword is a C++ 3D Medieval Slasher. Is a combination of the games Golden Axe and Mordhau.
-***No third-parties APIs or libraries used, everything is built from scratch by me, this game itself is a Game Engine***
+Silver Sword is a simple C++ 3D GDI graphics engine.
+***No third-parties APIs or libraries used, everything is built from scratch.***
 
 # 2.LICENSE
 Copyright © 2025 Christian Orosa.
