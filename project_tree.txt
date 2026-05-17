@@ -1,0 +1,133 @@
+Project tree for: C:\Users\chris\Documents\projects\game01 
+Generated on: 07/04/2026 20:44:47,55 
+ 
+Listado de rutas de carpetas para el volumen Windows
+El número de serie del volumen es 4C95-D427
+C:\USERS\CHRIS\DOCUMENTS\PROJECTS\GAME01
+|   buildbat.bat
+|   dumpTree.bat
+|   editor_tree.txt
+|   project_tree.txt
+|   
++---assets
++---bin
+|   +---editor
+|   \---game
++---build
+|       game01.exe
+|       
++---editor
+|   +---gui
+|   |   +---include
+|   |   |       gui.h
+|   |   |       guiContext.h
+|   |   |       guiWidgets.h
+|   |   |       
+|   |   \---src
+|   |           gui.cpp
+|   |           guiWidgets.cpp
+|   |           guiWin32.cpp
+|   |           
+|   +---src
+|   |       editorMain.cpp
+|   |       
+|   \---tools
++---engine
+|   +---audio
+|   |   +---include
+|   |   \---src
+|   +---core
+|   |   +---include
+|   |   |       core.h
+|   |   |       
+|   |   \---src
+|   |           core.cpp
+|   |           
+|   +---data
+|   |   +---include
+|   |   |       scene.h
+|   |   |       
+|   |   \---src
+|   |           sceneLoader.cpp
+|   |           
+|   +---debug
+|   |   \---src
+|   +---graphics
+|   |   |   graphics.cpp
+|   |   |   graphics.h
+|   |   |   
+|   |   +---backend
+|   |   |   +---include
+|   |   |   \---src
+|   |   +---pipeline
+|   |   |   +---include
+|   |   |   \---src
+|   |   \---shaders
+|   |       +---include
+|   |       \---src
+|   +---input
+|   |   +---include
+|   |   |       input.h
+|   |   |       
+|   |   \---src
+|   |           input.cpp
+|   |           
+|   +---maths
+|   |   +---include
+|   |   |       BoundingBox.h
+|   |   |       BoundingSphere.h
+|   |   |       Camera.h
+|   |   |       Defines.h
+|   |   |       Matrix.h
+|   |   |       NameSpace.h
+|   |   |       OBB.h
+|   |   |       Plane.h
+|   |   |       Polytope.h
+|   |   |       Quaternion.h
+|   |   |       Ray.h
+|   |   |       Vector3D.h
+|   |   |       
+|   |   \---src
+|   |           BoundingBox.cpp
+|   |           BoundingSphere.cpp
+|   |           Camera.cpp
+|   |           Matrix.cpp
+|   |           OBB.cpp
+|   |           Plane.cpp
+|   |           Quaternion.cpp
+|   |           Ray.cpp
+|   |           Vector3D.cpp
+|   |           
+|   +---physics
+|   |   +---include
+|   |   \---src
+|   +---platform
+|   |   +---linux
+|   |   +---mac
+|   |   \---win
+|   +---time
+|   |   +---include
+|   |   |       time.h
+|   |   |       
+|   |   \---src
+|   |           timeWin.cpp
+|   |           
+|   +---tools
+|   \---window
+|       +---include
+|       |       thewindow.h
+|       |       
+|       \---src
+|               thewindow.cpp
+|               
+\---projects
+    +---runtime
+    |   +---game
+    |   |   +---include
+    |   |   \---src
+    |   |           gameMain.cpp
+    |   |           
+    |   \---src
+    \---src
+            editorMain.cpp
+            
