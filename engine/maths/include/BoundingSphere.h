@@ -1,4 +1,3 @@
-
 #ifndef _BB_BOUNDING_SPHERE_H_
 #define _BB_BOUNDING_SPHERE_H_
 
