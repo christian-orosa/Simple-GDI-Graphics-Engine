@@ -1,9 +1,3 @@
-/*
-   Building Blocks Engine
-   Ultimate Game Engine Design and Architecture (2006)
-   Created by Allen Sherrod
-*/
-
 
 #include<Quaternion.h>
 #include<math.h>
