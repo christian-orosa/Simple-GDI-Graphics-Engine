@@ -1,5 +1,3 @@
-
-
 #ifndef _BB_MATRIX_H_
 #define _BB_MATRIX_H_
 
