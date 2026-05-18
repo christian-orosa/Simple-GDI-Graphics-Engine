@@ -1,5 +1,3 @@
-
-
 #ifndef _BB_BOUNDING_BOX_H_
 #define _BB_BOUNDING_BOX_H_
 
