@@ -1,5 +1,3 @@
-
-
 #ifndef _BB_CAMERA_H_
 #define _BB_CAMERA_H_
 
