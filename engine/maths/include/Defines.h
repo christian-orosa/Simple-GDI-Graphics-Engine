@@ -1,10 +1,3 @@
-/*
-   Building Blocks Engine
-   Ultimate Game Engine Design and Architecture (2006)
-   Created by Allen Sherrod
-*/
-
-
 #ifndef _BB_DEFINES_H_
 #define _BB_DEFINES_H_
 
